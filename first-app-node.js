@@ -11,7 +11,7 @@ app.get('/', (request, response) =>
                         response.send   (`
                             <http>
                                 <head>
-                                    <title>Oh Snap Landon</title>
+                                    <title>Oh Snap Man</title>
                                 </head>
                                 <body>
                                     <h1>OH SNAP!</h1>
