@@ -11,5 +11,8 @@
     "url": "(https://github.com/LandDroid/First-Node-App.git)"
   },
   "author": "Landon Lyle",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
