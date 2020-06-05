@@ -31,7 +31,6 @@ function myFunction() {
 });
 });
   
-app.listen(process.env.PORT || 3000);
 
 
 import React from 'react';
@@ -44,3 +43,5 @@ class Test extends React.Component {
 }
 
 ReactDOM.render(<Test />, document.getElementById('root'));
+
+app.listen(process.env.PORT || 3000);
