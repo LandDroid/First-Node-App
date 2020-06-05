@@ -14,6 +14,16 @@ https.get('https://insult.mattbas.org/api/insult', resp => {
                             <p style="font-size: 24px; color: red;">
                             ${chunk.toString()}!
                             </p>
+
+                            <h2>JavaScript Alert</h2>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  alert("I am an alert box!");
+}
+</script>
                         </body>
                         </http>
         `);
